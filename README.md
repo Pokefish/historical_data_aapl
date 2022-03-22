@@ -5,7 +5,11 @@ examination for remote work
 
 st_date : 起始日期
 
+type:str
+
 end_date : 終止日期
+
+type:str
 ```
 aaplJson(st_date,end_date)
 ```
